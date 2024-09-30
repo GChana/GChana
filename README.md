@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gurpreet
-- 👀 I’m interested in Information Security
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
